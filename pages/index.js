@@ -16,6 +16,7 @@ export default function Home() {
         <h1 className={styles.title}>
           Meu Primeiro Webapp react
         </h1>
+        <h2>Minhas tarefas diarias</h2>
       </main>
 
       <footer className={styles.footer}>
