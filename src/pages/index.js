@@ -3,7 +3,6 @@ import Head from 'next/head'
 import AppNavBar from '../components/AppNavBar';
 import AppCardBullets from '../components/AppCardBullets';
 
-
 export default function Home() {
 
   let title = 'Meu Primeiro webapp'
